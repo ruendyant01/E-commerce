@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn-blazor-9", "learn-blazor-9\learn-blazor-9.csproj", "{B96A5CEA-FD3E-4761-8CB1-71FA57F5B609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B96A5CEA-FD3E-4761-8CB1-71FA57F5B609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96A5CEA-FD3E-4761-8CB1-71FA57F5B609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96A5CEA-FD3E-4761-8CB1-71FA57F5B609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96A5CEA-FD3E-4761-8CB1-71FA57F5B609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
